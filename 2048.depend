@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1457167051 source:c:\dull,golearning!!\c++\_2048\2048\chesstable.cpp
+	<cmath>
+	<cstdio>
+	<cstring>
+	<string>
+	<cstdlib>
+	<vector>
+	<iostream>
+
+1457261741 source:c:\dull,golearning!!\c++\_2048\2048\main.cpp
+	<cstdio>
+	<string>
+	<iostream>
+	"chess.h"
+	<conio.h>
+	<cstdlib>
+
+1457261787 c:\dull,golearning!!\c++\_2048\2048\chess.h
+	<cmath>
+	<cstdio>
+	<cstring>
+	<string>
+	<cstdlib>
+	<vector>
+	<iostream>
+	<iomanip>
+
